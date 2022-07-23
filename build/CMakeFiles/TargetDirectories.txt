@@ -1,0 +1,3 @@
+/home/jared/Projects/tcp/build/CMakeFiles/tcp.dir
+/home/jared/Projects/tcp/build/CMakeFiles/edit_cache.dir
+/home/jared/Projects/tcp/build/CMakeFiles/rebuild_cache.dir

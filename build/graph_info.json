@@ -1,0 +1,34 @@
+{
+ "options": [
+  [
+   "libpcap:enable_libusb",
+   "False"
+  ],
+  [
+   "libpcap:enable_universal",
+   "deprecated"
+  ],
+  [
+   "libpcap:fPIC",
+   "True"
+  ],
+  [
+   "libpcap:shared",
+   "False"
+  ],
+  [
+   "pcapplusplus:fPIC",
+   "True"
+  ],
+  [
+   "pcapplusplus:immediate_mode",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

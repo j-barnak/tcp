@@ -1,0 +1,6 @@
+[requires]
+pcapplusplus/22.05
+
+[generators]
+cmake
+cmake_find_package
