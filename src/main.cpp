@@ -6,6 +6,9 @@
 #include "PcapLiveDeviceList.h"
 #include "SystemUtils.h"
 
+// Sets up the interfaces needed from PcapPlusPlus
+// Makes it so that the the program can read/write bytes from and to interfaces
+// If the set up of these devices are successful, set_up() returns true
 bool set_up();
 
 int main() {
